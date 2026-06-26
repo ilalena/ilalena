@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isabella Lalena
 =======================================================================================================================================
 
-I am a PhD student in the [Computational Social Neuroscience Group (CSNG)](https://cbn.gmu.edu/computational-social-neuroscience-group-csng) at George Mason University. My current research interests include pain perception, neurobiology, reinforcement learning, neuroimaging, brain stimulation, and brain-computer interfaces.
+I am a PhD candidate in the [Computational Social Neuroscience Group (CSNG)](https://cbn.gmu.edu/computational-social-neuroscience-group-csng) at George Mason University. My current research interests include pain perception, neurobiology, reinforcement learning, neuroimaging, brain stimulation, and brain-computer interfaces.
 
 *   🌍  I'm currently based in Salt Lake City, UT
 *   🖥️  See my portfolio at [psychology.gmu.edu/people/ilalena](http://psychology.gmu.edu/people/ilalena)
