@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a PhD student in the [Computational Social Neuroscience Group (CSNG)](https://cbn.gmu.edu/computational-social-neuroscience-group-csng) at George Mason University. My current research interests include pain perception, neurobiology, reinforcement learning, neuroimaging, brain stimulation, and brain-computer interfaces.
 
-*   🌍  I'm currently based in Fairfax, VA (but will be moving to Salt Lake City, UT soon!) 
+*   🌍  I'm currently based in Salt Lake City, UT
 *   🖥️  See my portfolio at [psychology.gmu.edu/people/ilalena](http://psychology.gmu.edu/people/ilalena)
 *   ✉️  You can contact me at [ilalena@gmu.edu](mailto:ilalena@gmu.edu)
 *   🧠  I'm familiar with Python, R, and MATLAB
